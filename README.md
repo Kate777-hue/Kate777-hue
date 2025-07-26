@@ -1,6 +1,6 @@
 ## Hi there 👋
-I am Kate Carr
-I am a data scientist passionate about using **machine learning** and **natural language processing** to solve real-world problems. I work with both **R** and **Python**, and my interests span across predictive modeling, financial and medical applications, and knowledge-augmented systems.
+I am Kate Carr.
+A data scientist passionate about using **machine learning** and **natural language processing** to solve real-world problems. I work with both **R** and **Python**, and my interests span across predictive modeling, financial and medical applications, and knowledge-augmented systems.
 
 ### 🔍 Current Interests
 - 🔎 **Retrieval-Augmented Generation (RAG)** (project in progress!)
@@ -19,7 +19,7 @@ I am a data scientist passionate about using **machine learning** and **natural 
 
 ---
 
-> “Learning is not attained by chance, it must be sought for with ardor and attended to with diligence.” — Abigail Adams
+> The work of a diligent mind shall not go unrewarded.
 
 <!--
 Let's connect!
